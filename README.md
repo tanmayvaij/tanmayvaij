@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Vaij</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<div style="display:flex;align-items:center;justify-content:center">
-<img width="" height="" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" />
-</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayvaij&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayvaij" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmayvaij" alt="tanmayvaij" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://tanmayvaij.github.io](https://tanmayvaij.github.io)
 
