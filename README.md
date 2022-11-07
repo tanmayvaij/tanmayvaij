@@ -1,6 +1,6 @@
 
 <div>
-  <img width="100%" height="350px" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif" alt="Error" />
+  <img width="100%" height="250px" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif" alt="Error" />
 </div>
 <h1 align="center">Hi 👋, I'm Tanmay Vaij</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
