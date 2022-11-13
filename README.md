@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayvaij&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayvaij" /> </p>
 
-- 🔭 I’m currently working on **University LMS @DYPIU**
+- 🔭 I’m currently working on **University LMS @ DYPIU**
 
 - 👨‍💻 All of my projects are available at [https://tanmayvaij.github.io](https://tanmayvaij.github.io)
 
