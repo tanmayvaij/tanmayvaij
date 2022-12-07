@@ -40,10 +40,7 @@
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40"                 height="40"/>         
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
+  </a>  
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
   </a> 
