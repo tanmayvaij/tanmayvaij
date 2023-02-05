@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me: </h1>
 
 <div align="center">
-<p>🔭 I’m currently working on <b>Tourism Website</b><p>
+<p>🔭 I’m currently working as an intern at systemonsilicon 
 <p>👯 I’m looking to collaborate on - <b>Any Open Source Project<b/><p>
 <p>🌱 I’m currently learning - <b>Django, Angular</b><p>
 <p>💬 Ask me about - <b>MERN Stack, Python</b><p>
