@@ -5,17 +5,9 @@
 
 - 🔭 I’m currently working on [Succession Management Project](https://play.google.com/store/apps/details?id=com.oiconomos.www)
 
-- 🌱 I’m currently learning **Next.JS, Django**
-
-- 👨‍💻 All of my projects are available at [https://tanmayvaij.github.io/](https://tanmayvaij.github.io/)
-
-- 📝 I regularly write articles on [https://medium.com/@tanmayvaij22](https://medium.com/@tanmayvaij22)
-
 - 💬 Ask me about **ReactJS, React Native, Python**
 
 - 📫 How to reach me **tanmayvaij22@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
