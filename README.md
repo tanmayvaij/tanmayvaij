@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanmay%20Vaij&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=16&descAlignY=51" alt="Header"/>
 </div>
 
-<div align="center" style="margin-bottom:20px">
+<div align="center" style="margin-bottom:40px">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+Building+scalable+web+%26+mobile+apps;🤖+Exploring+AI+%26+Machine+Learning;☁️+Deploying+on+cloud+platforms;🌟+Contributing+to+open+source" alt="Typing Animation"/>
 </div>
 
