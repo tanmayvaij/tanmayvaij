@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanmay%20Vaij&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=16&descAlignY=51" alt="Header"/>
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom:20px">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+Building+scalable+web+%26+mobile+apps;🤖+Exploring+AI+%26+Machine+Learning;☁️+Deploying+on+cloud+platforms;🌟+Contributing+to+open+source" alt="Typing Animation"/>
 </div>
 
@@ -14,36 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=tanmayvaij&label=Profile%20Views&color=brightgreen&style=flat-square"/>
   <img src="https://img.shields.io/github/followers/tanmayvaij?label=Followers&style=flat-square&color=blue"/>
 </div>
-
----
-
-## 🎯 Quick Overview
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```javascript
-const tanmay = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    askMeAbout: ["web dev", "mobile dev", "cloud", "AI/ML", "open source"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "NestJS"],
-            python: ["FastAPI", "Django"]
-        },
-        mobile: ["React Native", "Flutter"],
-        databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-        cloud: ["AWS", "Firebase", "Vercel", "Netlify"],
-        devOps: ["Docker", "GitHub Actions"]
-    },
-    currentFocus: "Building AI-powered applications and exploring advanced cloud architectures 🤖☁️",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-````
 
 ---
 
